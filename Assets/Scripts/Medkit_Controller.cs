@@ -12,7 +12,7 @@ public class Medkit_Controller : MonoBehaviour
 
     public void Awake()
     {
-        _healthSystem = GameObject.FindGameObjectWithTag("Player").GetComponent<HealthSystem>();
+        _healthSystem = GameObject.FindGameObjectWithTag("PlayerFather").GetComponent<HealthSystem>();
     }
 
 

@@ -5166,24 +5166,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 790306297}
   m_CullTransparentMesh: 1
---- !u!1 &795326060 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7010464490267496232, guid: bbd269d8fa7f36e4099951d3f98af591, type: 3}
-  m_PrefabInstance: {fileID: 1492261417}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &795326061
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 795326060}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b3d3ac9c3630776468c9e6f0b1490ed8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _healthSystem: {fileID: 0}
 --- !u!1 &796586300
 GameObject:
   m_ObjectHideFlags: 0
@@ -12371,24 +12353,6 @@ Transform:
   m_Father: {fileID: 1222571959}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1870173665 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7010464490267496232, guid: bbd269d8fa7f36e4099951d3f98af591, type: 3}
-  m_PrefabInstance: {fileID: 1474521583}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1870173666
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1870173665}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b3d3ac9c3630776468c9e6f0b1490ed8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _healthSystem: {fileID: 0}
 --- !u!1 &1881895352
 GameObject:
   m_ObjectHideFlags: 0
@@ -15765,6 +15729,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: fb6dedc70ead5a240bfc9a82fce9c166, type: 2}
+    - target: {fileID: 919132149448271477, guid: 4464ff0c4fedfca44b6cbc1be3219e96, type: 3}
+      propertyPath: speed
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 4216374621672769394, guid: 4464ff0c4fedfca44b6cbc1be3219e96, type: 3}
       propertyPath: m_Name
       value: HiustonEgg
