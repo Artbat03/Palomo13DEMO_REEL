@@ -31,6 +31,7 @@ OBJECTIVE
 Collect all the eggs to complete the mission without being killed by the asteroids or infected by the viruses. 
 If you become infected by a virus, you can be cured by the antidotes. 
 Put the fridges to save the eggs so they don't disappear and you fail in your mission.
+Let yourself be guided with the minimap at the bottom right.
 
 CONTROLS
 WS => move the player up or down without propel
