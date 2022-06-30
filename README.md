@@ -1,6 +1,8 @@
 # Palomo13DEMO_REEL
 Palomo 13: Tenemos Un Problema is a game developed by a group of 3 people: Laia, Àngels and me, Júlia. We made all the level design, the textures, the models, the VFX, the programming, the history and part of the UI.
 
+Made with Unity, ZBrush, Maya, Substance Painter and Procreate.
+
 HISTORY
 
 // English
